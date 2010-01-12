@@ -8,3 +8,5 @@ controller scaffold --class ~.web.PersonController
 test mock
 test integration
 security setup
+logging setup --level INFO --package ALL_SPRING
+
